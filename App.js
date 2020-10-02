@@ -26,4 +26,4 @@ const SwitchNavigator = createSwitchNavigator({
   TabNavigator: {screen: TabNavigator}
 })
 
-const AppContainer = createAppContainer(SwitchNavigator);
+const AppContainer = createAppContainer(SwitchNavigator); 
